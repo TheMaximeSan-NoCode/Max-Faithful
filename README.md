@@ -13,4 +13,10 @@ it comes with a faithful and medieval style 32x texture pack which aims to rende
 
 Fork of "Sama-faithful" and "faithful"
 
-<img src="https://media.forgecdn.net/attachments/thumbnails/363/752/310/172/2021-05-13_13.png">
+<img src="https://cdn.discordapp.com/attachments/853589280299679765/865343784287731742/unknown.png">
+
+<img src="https://cdn.discordapp.com/attachments/853589280299679765/865343892857159720/unknown.png">
+
+<img src="https://cdn.discordapp.com/attachments/853589280299679765/865343928030855178/unknown.png">
+
+<img src="https://cdn.discordapp.com/attachments/853589280299679765/865343969763000330/unknown.png">
